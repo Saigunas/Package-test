@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Test.HelperLibrary</PackageId>
+    <Description>Test package for github</Description>
+    <PackageTags>Test</PackageTags>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Saigunas/SAIGUNAS_BIRBALAS_GROUP2_EXADEL_NET_TRAINING</RepositoryUrl>
+    <Version>1.1.0</Version>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Test.HelperLibrary</id>
+    <version>1.1.0</version>
+    <authors>HelperLibrary</authors>
+    <description>Test package for github</description>
+    <tags>Test</tags>
+    <repository url="https://github.com/Saigunas/SAIGUNAS_BIRBALAS_GROUP2_EXADEL_NET_TRAINING" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Saga\Documents\repos\NuGetDemo\HelperLibrary\bin\Debug\net6.0\HelperLibrary.dll" target="lib\net6.0\HelperLibrary.dll" />
+  </files>
+</package>
