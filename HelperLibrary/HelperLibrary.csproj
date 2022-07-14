@@ -9,7 +9,7 @@
     <Description>Test package for github</Description>
     <PackageTags>Test</PackageTags>
     <PackageProjectUrl></PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Saigunas/SAIGUNAS_BIRBALAS_GROUP2_EXADEL_NET_TRAINING</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Saigunas/Package-test</RepositoryUrl>
     <Version>1.1.1</Version>
   </PropertyGroup>
 

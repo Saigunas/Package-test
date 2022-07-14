@@ -10,3 +10,15 @@ C:\Users\Saga\Documents\repos\NuGetDemo\HelperLibrary\obj\Debug\net6.0\HelperLib
 C:\Users\Saga\Documents\repos\NuGetDemo\HelperLibrary\obj\Debug\net6.0\refint\HelperLibrary.dll
 C:\Users\Saga\Documents\repos\NuGetDemo\HelperLibrary\obj\Debug\net6.0\HelperLibrary.pdb
 C:\Users\Saga\Documents\repos\NuGetDemo\HelperLibrary\obj\Debug\net6.0\ref\HelperLibrary.dll
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\bin\Debug\net6.0\HelperLibrary.deps.json
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\bin\Debug\net6.0\HelperLibrary.dll
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\bin\Debug\net6.0\HelperLibrary.pdb
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\HelperLibrary.csproj.AssemblyReference.cache
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\HelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\HelperLibrary.AssemblyInfoInputs.cache
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\HelperLibrary.AssemblyInfo.cs
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\HelperLibrary.dll
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\refint\HelperLibrary.dll
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\HelperLibrary.pdb
+C:\Users\Saga\Documents\repos\Package-test\HelperLibrary\obj\Debug\net6.0\ref\HelperLibrary.dll
