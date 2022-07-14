@@ -11,10 +11,10 @@
     "C:\\Users\\Saga\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.1.1",
+    "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Saga\\Documents\\repos\\Package-test\\HelperLibrary\\HelperLibrary.csproj",
-      "projectName": "Test.HelperLibrary",
+      "projectName": "Test.CalculatorPackage",
       "projectPath": "C:\\Users\\Saga\\Documents\\repos\\Package-test\\HelperLibrary\\HelperLibrary.csproj",
       "packagesPath": "C:\\Users\\Saga\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Saga\\Documents\\repos\\Package-test\\HelperLibrary\\obj\\",

@@ -5,12 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageId>Test.HelperLibrary</PackageId>
+    <PackageId>Test.CalculatorPackage</PackageId>
     <Description>Test package for github</Description>
     <PackageTags>Test</PackageTags>
     <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl>https://github.com/Saigunas/Package-test</RepositoryUrl>
-    <Version>1.1.1</Version>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>
